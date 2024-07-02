@@ -1,0 +1,112 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "chicken friedrice",
+        "img": "https://plus.unsplash.com/premium_photo-1712758600560-67cffbf3866f?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "half": "150",
+                "full": "210"
+            }
+        ],
+        "Description": "Made with indian spices and masalas, BBQ chicken"
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg friedrice",
+        "img": "https://images.unsplash.com/photo-1542367592-8849eb950fd8?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "half": "130",
+                "full": "200"
+            }
+        ],
+        "Description": "Made with indian spices and masalas, pure veg, Carrots and cabbaige"
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Chicken Wings",
+        "img": "https://images.unsplash.com/photo-1600555379765-f82335a7b1b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "6 pieces": "180",
+                "12 pieces": "320"
+            }
+        ],
+        "Description": "Spicy and crispy chicken wings with a tangy sauce."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Spring Rolls",
+        "img": "https://images.unsplash.com/photo-1515022376298-7333f33e704b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "4 pieces": "100",
+                "8 pieces": "180"
+            }
+        ],
+        "Description": "Crispy vegetarian spring rolls served with a sweet chili sauce."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Margherita Pizza",
+        "img": "https://images.unsplash.com/photo-1573821663912-6df460f9c684?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "Regular": "250",
+                "Medium": "400",
+                "Large": "550"
+            }
+        ],
+        "Description": "Classic Margherita pizza with fresh tomatoes, mozzarella cheese, and basil."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Pepperoni Pizza",
+        "img": "https://images.unsplash.com/photo-1564128442383-9201fcc740eb?q=80&w=1862&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "Regular": "300",
+                "Medium": "450",
+                "Large": "600"
+            }
+        ],
+        "Description": "Delicious pizza topped with pepperoni slices and mozzarella cheese."
+    },
+    {
+        "CategoryName": "Desserts",
+        "name": "Chocolate Lava Cake",
+        "img": "https://images.unsplash.com/photo-1673551490812-eaee2e9bf0ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "Single": "150"
+            }
+        ],
+        "Description": "Warm chocolate cake with a creamy inside."
+    },
+    {
+        "CategoryName": "Starters",
+        "name": "Stuffed Mushrooms",
+        "img": "https://images.unsplash.com/photo-1622268805718-ca073548d4ad?q=80&w=1905&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "4 pieces": "120",
+                "8 pieces": "220"
+            }
+        ],
+        "Description": "Mushrooms stuffed with a creamy cheese filling, baked to perfection."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Veggie Delight Pizza",
+        "img": "https://plus.unsplash.com/premium_photo-1672498268734-0f41e888298d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "options": [
+            {
+                "Regular": "270",
+                "Medium": "420",
+                "Large": "570"
+            }
+        ],
+        "Description": "A delightful pizza topped with a variety of fresh vegetables and mozzarella cheese."
+    }
+]
